@@ -6,7 +6,7 @@ import net.serenitybdd.core.annotations.findby.FindBy;
 
 import net.thucydides.core.pages.PageObject;
 
-
+ 
 @DefaultUrl("http://localhost:8000")
 public class HomePage extends PageObject {
 

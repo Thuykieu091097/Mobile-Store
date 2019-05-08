@@ -16,7 +16,7 @@ public class SearchTest {
 
 	@Managed(uniqueSession = true)
 	public WebDriver webdriver;
-
+ 
 	@Steps
 	public UserSteps anna;
 

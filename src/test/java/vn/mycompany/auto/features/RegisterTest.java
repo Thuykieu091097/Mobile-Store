@@ -12,7 +12,7 @@ import vn.mycompany.auto.steps.serenity.UserSteps;
 
 @RunWith(SerenityRunner.class)
 public class RegisterTest {
-
+ 
 	public static final String NAME = "THUY KIEU";
 	public static final String EMAIL = "thuykieu@gmail.com";
 	public static final String PASSWORD = "thuykieu0910";
